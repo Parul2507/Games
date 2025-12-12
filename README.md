@@ -1,4 +1,4 @@
-# Parul's Gaming
+# Raylib-Game
 
 Small side-scrolling jump-and-dodge game built with C++ and [raylib](https://www.raylib.com/). You control Scarfy as parallax layers scroll by; avoid the nebula sprites to survive and make it to the finish line.
 
